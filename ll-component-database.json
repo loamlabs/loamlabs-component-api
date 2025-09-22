@@ -3547,7 +3547,7 @@
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 582,
    "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
-   "Variant Metafield: custom.weight_g [number_decimal]": 380
+   "Variant Metafield: custom.weight_g [number_decimal]": 410
  },
  {
    "ID": 9235404816691,
