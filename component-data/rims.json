@@ -17,7 +17,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 562,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 420
  },
  {
@@ -38,7 +38,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 555.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 430
  },
  {
@@ -59,7 +59,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 555.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 430
  },
  {
@@ -80,7 +80,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 593.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 460
  },
  {
@@ -101,7 +101,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 593.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 460
  },
  {
@@ -122,7 +122,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 555.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 440
  },
  {
@@ -143,7 +143,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 555.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 440
  },
  {
@@ -164,7 +164,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 593.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 460
  },
  {
@@ -185,7 +185,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 593.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 460
  },
  {
@@ -206,7 +206,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 544.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 420
  },
  {
@@ -227,7 +227,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 544.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 420
  },
  {
@@ -248,7 +248,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 544.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 420
  },
  {
@@ -269,7 +269,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 544.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 420
  },
  {
@@ -290,7 +290,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 544.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 420
  },
  {
@@ -311,7 +311,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 544.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 420
  },
  {
@@ -332,7 +332,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 600,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 580
  },
  {
@@ -353,7 +353,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 600,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 580
  },
  {
@@ -374,7 +374,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 592.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 400
  },
  {
@@ -395,7 +395,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 592.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 400
  },
  {
@@ -416,7 +416,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 594,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 500
  },
  {
@@ -437,7 +437,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 594,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 500
  },
  {
@@ -458,7 +458,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 594.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 405
  },
  {
@@ -479,7 +479,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 594.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 405
  },
  {
@@ -500,7 +500,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 594.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 405
  },
  {
@@ -521,7 +521,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 559.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 410
  },
  {
@@ -542,7 +542,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 559.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 410
  },
  {
@@ -563,7 +563,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 597.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 435
  },
  {
@@ -584,7 +584,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 597.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 435
  },
  {
@@ -605,7 +605,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 559.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 410
  },
  {
@@ -626,7 +626,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 559.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 410
  },
  {
@@ -647,7 +647,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 597.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 435
  },
  {
@@ -668,7 +668,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 597.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 435
  },
  {
@@ -689,7 +689,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 591.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 395
  },
  {
@@ -710,7 +710,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 591.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 395
  },
  {
@@ -731,7 +731,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 591.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 395
  },
  {
@@ -752,7 +752,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 591.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 395
  },
  {
@@ -773,7 +773,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 591.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 395
  },
  {
@@ -794,7 +794,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 591.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 395
  },
  {
@@ -815,7 +815,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 537,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 475
  },
  {
@@ -836,7 +836,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 558,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 500
  },
  {
@@ -857,7 +857,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 596,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 530
  },
  {
@@ -878,7 +878,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 559,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 550
  },
  {
@@ -899,7 +899,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 559,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 550
  },
  {
@@ -920,7 +920,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 597,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 590
  },
  {
@@ -941,7 +941,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 597,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 590
  },
  {
@@ -962,7 +962,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 561,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 491
  },
  {
@@ -983,7 +983,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 561,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 493
  },
  {
@@ -1004,7 +1004,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 601,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 533
  },
  {
@@ -1025,7 +1025,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 601,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 533
  },
  {
@@ -1046,7 +1046,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 561,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 570
  },
  {
@@ -1067,7 +1067,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 561,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 570
  },
  {
@@ -1088,7 +1088,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 599,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 605
  },
  {
@@ -1109,7 +1109,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 599,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 605
  },
  {
@@ -1130,7 +1130,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 557,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 650
  },
  {
@@ -1151,7 +1151,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 595,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 695
  },
  {
@@ -1172,7 +1172,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 538,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 570
  },
  {
@@ -1193,7 +1193,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 563,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 595
  },
  {
@@ -1214,7 +1214,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 601,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 635
  },
  {
@@ -1235,7 +1235,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 552,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 500
  },
  {
@@ -1256,7 +1256,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 552,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 500
  },
  {
@@ -1277,7 +1277,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 590,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 535
  },
  {
@@ -1298,7 +1298,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 590,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 535
  },
  {
@@ -1319,7 +1319,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 590,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 535
  },
  {
@@ -1340,7 +1340,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 590,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 485
  },
  {
@@ -1361,7 +1361,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 590,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 485
  },
  {
@@ -1382,7 +1382,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 590,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 485
  },
  {
@@ -1403,7 +1403,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 559,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 510
  },
  {
@@ -1424,7 +1424,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 559,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 510
  },
  {
@@ -1445,7 +1445,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 597,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 550
  },
  {
@@ -1466,7 +1466,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 597,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 550
  },
  {
@@ -1487,7 +1487,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 561,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 434
  },
  {
@@ -1508,7 +1508,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 601,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 470
  },
  {
@@ -1529,7 +1529,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 602,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 373
  },
  {
@@ -1550,7 +1550,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 601,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 640
  },
  {
@@ -1571,7 +1571,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 601,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 640
  },
  {
@@ -1592,7 +1592,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 603,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 610
  },
  {
@@ -1613,7 +1613,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 603,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 610
  },
  {
@@ -1634,7 +1634,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 601,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 575
  },
  {
@@ -1655,7 +1655,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 601,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 575
  },
  {
@@ -1676,7 +1676,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 603,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 550
  },
  {
@@ -1697,7 +1697,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 603,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 550
  },
  {
@@ -1718,7 +1718,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 563,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 605
  },
  {
@@ -1739,7 +1739,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 563,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 605
  },
  {
@@ -1760,7 +1760,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 566,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 610
  },
  {
@@ -1781,7 +1781,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 566,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 610
  },
  {
@@ -1802,7 +1802,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 555,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 550
  },
  {
@@ -1823,7 +1823,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 555,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 550
  },
  {
@@ -1844,7 +1844,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 593,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 575
  },
  {
@@ -1865,7 +1865,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 593,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 575
  },
  {
@@ -1886,7 +1886,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 555,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 480
  },
  {
@@ -1907,7 +1907,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 555,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 480
  },
  {
@@ -1928,7 +1928,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 593,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 515
  },
  {
@@ -1949,7 +1949,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 593,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 515
  },
  {
@@ -1970,7 +1970,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 592,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 380
  },
  {
@@ -1991,7 +1991,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 577,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 360
  },
  {
@@ -2012,7 +2012,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 555,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 430
  },
  {
@@ -2033,7 +2033,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 555,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 430
  },
  {
@@ -2054,7 +2054,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 592,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 450
  },
  {
@@ -2075,7 +2075,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 592,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 450
  },
  {
@@ -2096,7 +2096,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 596,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 380
  },
  {
@@ -2117,7 +2117,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 596,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 380
  },
  {
@@ -2138,7 +2138,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front",
    "Variant Metafield: custom.rim_erd [number_decimal]": 594,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 480
  },
  {
@@ -2159,7 +2159,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 594,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 530
  },
  {
@@ -2180,7 +2180,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front",
    "Variant Metafield: custom.rim_erd [number_decimal]": 594,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 530
  },
  {
@@ -2201,7 +2201,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front",
    "Variant Metafield: custom.rim_erd [number_decimal]": 594,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 530
  },
  {
@@ -2222,7 +2222,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 556,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 530
  },
  {
@@ -2243,7 +2243,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 594,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 530
  },
  {
@@ -2264,7 +2264,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 594,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 530
  },
  {
@@ -2285,7 +2285,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 582,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 410
  },
  {
@@ -2306,7 +2306,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 565,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 450
  },
  {
@@ -2327,7 +2327,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 593,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 453
  },
  {
@@ -2348,7 +2348,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 593,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 453
  },
  {
@@ -2369,7 +2369,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 593,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 468
  },
  {
@@ -2390,7 +2390,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 545,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 420
  },
  {
@@ -2411,7 +2411,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 558,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 365
  },
  {
@@ -2432,7 +2432,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 567,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 380
  },
  {
@@ -2453,7 +2453,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 567,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 380
  },
  {
@@ -2474,7 +2474,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 595,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 430
  },
  {
@@ -2495,7 +2495,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 595,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 480
  },
  {
@@ -2516,7 +2516,7 @@
    "Metafield: custom.weight_g [number_decimal]": 295,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 598,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": null
  },
  {
@@ -2537,7 +2537,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 571,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 410
  },
  {
@@ -2558,7 +2558,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 571,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 450
  },
  {
@@ -2579,7 +2579,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 571,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 450
  },
  {
@@ -2600,7 +2600,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 551,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 430
  },
  {
@@ -2621,7 +2621,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 551,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 470
  },
  {
@@ -2642,7 +2642,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 551,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 470
  },
  {
@@ -2663,7 +2663,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 571,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 400
  },
  {
@@ -2684,7 +2684,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 571,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 440
  },
  {
@@ -2705,7 +2705,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 571,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 440
  },
  {
@@ -2726,7 +2726,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 551,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 420
  },
  {
@@ -2747,7 +2747,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 551,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 460
  },
  {
@@ -2768,7 +2768,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 551,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 460
  },
  {
@@ -2789,7 +2789,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front",
    "Variant Metafield: custom.rim_erd [number_decimal]": 598.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 360
  },
  {
@@ -2810,7 +2810,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 598.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 390
  },
  {
@@ -2831,7 +2831,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 553,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 390
  },
  {
@@ -2852,7 +2852,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 553,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 390
  },
  {
@@ -2873,7 +2873,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 591,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 405
  },
  {
@@ -2894,7 +2894,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 591,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 405
  },
  {
@@ -2915,7 +2915,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 591,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 405
  },
  {
@@ -2936,7 +2936,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front",
    "Variant Metafield: custom.rim_erd [number_decimal]": 598,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 395
  },
  {
@@ -2957,7 +2957,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 598,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 435
  },
  {
@@ -2978,7 +2978,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 553,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 430
  },
  {
@@ -2999,7 +2999,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 553,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 430
  },
  {
@@ -3020,7 +3020,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 590,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 443
  },
  {
@@ -3041,7 +3041,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 590,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 443
  },
  {
@@ -3062,7 +3062,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front",
    "Variant Metafield: custom.rim_erd [number_decimal]": 560,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 430
  },
  {
@@ -3083,7 +3083,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front",
    "Variant Metafield: custom.rim_erd [number_decimal]": 598,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 450
  },
  {
@@ -3104,7 +3104,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 560,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 520
  },
  {
@@ -3125,7 +3125,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 598,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 550
  },
  {
@@ -3146,7 +3146,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 551,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 505
  },
  {
@@ -3167,7 +3167,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 551,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 505
  },
  {
@@ -3188,7 +3188,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 589,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 530
  },
  {
@@ -3209,7 +3209,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 589,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 530
  },
  {
@@ -3230,7 +3230,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front",
    "Variant Metafield: custom.rim_erd [number_decimal]": 551,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 470
  },
  {
@@ -3251,7 +3251,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front",
    "Variant Metafield: custom.rim_erd [number_decimal]": 588,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 490
  },
  {
@@ -3272,7 +3272,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 551,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 520
  },
  {
@@ -3293,7 +3293,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 588,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 550
  },
  {
@@ -3314,7 +3314,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 562,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 418
  },
  {
@@ -3335,7 +3335,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 600,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 445
  },
  {
@@ -3356,7 +3356,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 562,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 484
  },
  {
@@ -3377,7 +3377,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 600,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 525
  },
  {
@@ -3398,7 +3398,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 562,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 520
  },
  {
@@ -3419,7 +3419,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 600,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 553
  },
  {
@@ -3440,7 +3440,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 562,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 560
  },
  {
@@ -3461,7 +3461,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 600,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 596
  },
  {
@@ -3482,7 +3482,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 603,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 350
  },
  {
@@ -3503,7 +3503,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 595,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 385
  },
  {
@@ -3524,7 +3524,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 558,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 540
  },
  {
@@ -3545,7 +3545,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 599,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 585
  },
  {
@@ -3566,7 +3566,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 599,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 645
  },
  {
@@ -3587,7 +3587,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 578,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 512
  },
  {
@@ -3608,7 +3608,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 558,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 540
  },
  {
@@ -3629,7 +3629,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 596,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 580
  },
  {
@@ -3650,7 +3650,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 559,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 497
  },
  {
@@ -3671,7 +3671,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 598,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 516
  },
  {
@@ -3692,7 +3692,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 561,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 460
  },
  {
@@ -3713,7 +3713,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 599,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 500
  },
  {
@@ -3734,7 +3734,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 561,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 450
  },
  {
@@ -3755,7 +3755,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 597,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 469
  },
  {
@@ -3776,7 +3776,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 557,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 640
  },
  {
@@ -3797,7 +3797,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 594,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 670
  },
  {
@@ -3818,7 +3818,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front",
    "Variant Metafield: custom.rim_erd [number_decimal]": 571,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 335
  },
  {
@@ -3839,7 +3839,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 565,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 355
  },
  {
@@ -3860,7 +3860,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front",
    "Variant Metafield: custom.rim_erd [number_decimal]": 560,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 400
  },
  {
@@ -3881,7 +3881,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front",
    "Variant Metafield: custom.rim_erd [number_decimal]": 556,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 375
  },
  {
@@ -3902,7 +3902,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 552,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 425
  },
  {
@@ -3923,7 +3923,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 542,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 415
  },
  {
@@ -3944,7 +3944,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front",
    "Variant Metafield: custom.rim_erd [number_decimal]": 537,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 465
  },
  {
@@ -3965,7 +3965,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front",
    "Variant Metafield: custom.rim_erd [number_decimal]": 527,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 465
  },
  {
@@ -3986,7 +3986,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 515,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 520
  },
  {
@@ -4007,7 +4007,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 515,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 525
  },
  {
@@ -4028,7 +4028,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front",
    "Variant Metafield: custom.rim_erd [number_decimal]": 487,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 590
  },
  {
@@ -4049,7 +4049,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 466,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 600
  },
  {
@@ -4070,7 +4070,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 433,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 645
  },
  {
@@ -4091,7 +4091,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 564,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 465
  },
  {
@@ -4112,7 +4112,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 601,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 495
  },
  {
@@ -4133,7 +4133,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 601,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 495
  },
  {
@@ -4154,7 +4154,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 564,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 560
  },
  {
@@ -4175,7 +4175,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 564,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 560
  },
  {
@@ -4196,7 +4196,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 601,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 600
  },
  {
@@ -4217,7 +4217,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 601,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 535
  },
  {
@@ -4238,7 +4238,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 560,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 520
  },
  {
@@ -4259,7 +4259,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 560,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 520
  },
  {
@@ -4280,7 +4280,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 598,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 540
  },
  {
@@ -4301,7 +4301,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 598,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 540
  },
  {
@@ -4322,7 +4322,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 560,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 580
  },
  {
@@ -4343,7 +4343,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 598,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 620
  },
  {
@@ -4364,7 +4364,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 602,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 430
  },
  {
@@ -4385,7 +4385,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 602,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 430
  },
  {
@@ -4406,7 +4406,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 553.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 540
  },
  {
@@ -4427,7 +4427,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 591.2,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 550
  },
  {
@@ -4448,7 +4448,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 528.2,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 480
  },
  {
@@ -4469,7 +4469,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 553.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 500
  },
  {
@@ -4490,7 +4490,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 591,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 525
  },
  {
@@ -4511,7 +4511,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 536,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 431
  },
  {
@@ -4532,7 +4532,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 536,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 431
  },
  {
@@ -4553,7 +4553,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 561,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 451
  },
  {
@@ -4574,7 +4574,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 561,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 451
  },
  {
@@ -4595,7 +4595,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 600,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 481
  },
  {
@@ -4616,7 +4616,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 600,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 481
  },
  {
@@ -4637,7 +4637,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 538,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 357
  },
  {
@@ -4658,7 +4658,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 538,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 357
  },
  {
@@ -4679,7 +4679,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 563,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 374
  },
  {
@@ -4700,7 +4700,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 563,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 374
  },
  {
@@ -4721,7 +4721,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 601,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 399
  },
  {
@@ -4742,7 +4742,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 601,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 399
  },
  {
@@ -4763,7 +4763,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 564,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 420
  },
  {
@@ -4784,7 +4784,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 602,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 455
  },
  {
@@ -4805,7 +4805,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 564,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 580
  },
  {
@@ -4826,7 +4826,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 602,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 618
  },
  {
@@ -4847,7 +4847,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 561,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 487
  },
  {
@@ -4868,7 +4868,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 561,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 487
  },
  {
@@ -4889,7 +4889,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 600,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 521
  },
  {
@@ -4910,7 +4910,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 600,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 521
  },
  {
@@ -4931,7 +4931,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 536,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 466
  },
  {
@@ -4952,7 +4952,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 561,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 485
  },
  {
@@ -4973,7 +4973,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 600,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 515
  },
  {
@@ -4994,7 +4994,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 600,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 515
  },
  {
@@ -5015,7 +5015,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 562,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 612
  },
  {
@@ -5036,7 +5036,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 604,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 618
  },
  {
@@ -5057,7 +5057,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 600,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 543
  },
  {
@@ -5078,7 +5078,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 600,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 527
  },
  {
@@ -5099,7 +5099,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 600,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 506
  },
  {
@@ -5120,7 +5120,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 562,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 566
  },
  {
@@ -5141,7 +5141,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 604,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 579
  },
  {
@@ -5162,7 +5162,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 604,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 579
  },
  {
@@ -5183,7 +5183,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 602.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 360
  },
  {
@@ -5204,7 +5204,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 602.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 360
  },
  {
@@ -5225,7 +5225,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 602.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 360
  },
  {
@@ -5246,7 +5246,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 602.5,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 360
  },
  {
@@ -5267,7 +5267,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 604,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 448
  },
  {
@@ -5288,7 +5288,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 604,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 448
  },
  {
@@ -5309,7 +5309,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 562,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 554
  },
  {
@@ -5330,7 +5330,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 562,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 554
  },
  {
@@ -5351,7 +5351,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 601,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 588
  },
  {
@@ -5372,7 +5372,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 601,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 588
  },
  {
@@ -5393,7 +5393,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 564,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 506
  },
  {
@@ -5414,7 +5414,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 604,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 527
  },
  {
@@ -5435,7 +5435,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 604,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 543
  },
  {
@@ -5456,7 +5456,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 561,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 485
  },
  {
@@ -5477,7 +5477,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 561,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 485
  },
  {
@@ -5498,7 +5498,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 600,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 495
  },
  {
@@ -5519,7 +5519,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 600,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 495
  },
  {
@@ -5540,7 +5540,7 @@
    "Metafield: custom.weight_g [number_decimal]": null,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 600,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 440
  },
  {
@@ -5561,7 +5561,7 @@
    "Metafield: custom.weight_g [number_decimal]": 380,
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 596,
-   "Variant Metafield: custom.length_adjust_ [number_decimal]": "",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 380
  }
 ]
