@@ -12,7 +12,7 @@ const ALLOWED_REFERERS = [
 // This is the main function that runs when someone accesses the URL
 export default async function handler(request, response) {
     
-    // --- NEW: CORS PERMISSION LOGIC ---
+    // --- CORS PERMISSION LOGIC ---
     const origin = request.headers.origin;
     if (origin && ALLOWED_REFERERS.some(allowedDomain => origin.startsWith(allowedDomain))) {
         response.setHeader('Access-Control-Allow-Origin', origin);
@@ -20,13 +20,11 @@ export default async function handler(request, response) {
         response.setHeader('Access-Control-Allow-Headers', 'Content-Type');
     }
 
-    // The browser sometimes sends a "preflight" OPTIONS request first to check permissions.
-    // If it's an OPTIONS request, we just send back the headers and a "200 OK".
     if (request.method === 'OPTIONS') {
         return response.status(200).end();
     }
 
-    // --- THE REFERER SECURITY CHECK (Stays the same) ---
+    // --- REFERER SECURITY CHECK ---
     const referer = request.headers.referer;
     const isAllowed = referer && ALLOWED_REFERERS.some(allowedDomain => referer.startsWith(allowedDomain));
 
@@ -34,14 +32,35 @@ export default async function handler(request, response) {
         return response.status(403).json({ error: 'Access Denied: You do not have permission to access this resource.' });
     }
 
-    // --- If security checks pass, send the data (Stays the same) ---
+    // --- If security checks pass, load, combine, and send the data ---
     try {
-        const jsonFilePath = path.resolve(process.cwd(), 'll-component-database.json');
-        const fileContents = await fs.readFile(jsonFilePath, 'utf8');
-        const data = JSON.parse(fileContents);
-        return response.status(200).json(data);
+        // Define paths to the new individual component files
+        const dataPath = path.resolve(process.cwd(), 'component-data');
+        const rimsPath = path.join(dataPath, 'rims.json');
+        const hubsPath = path.join(dataPath, 'hubs.json');
+        const spokesPath = path.join(dataPath, 'spokes.json');
+        const nipplesPath = path.join(dataPath, 'nipples.json');
+
+        // Read all component files in parallel
+        const [rimsContents, hubsContents, spokesContents, nipplesContents] = await Promise.all([
+            fs.readFile(rimsPath, 'utf8'),
+            fs.readFile(hubsPath, 'utf8'),
+            fs.readFile(spokesPath, 'utf8'),
+            fs.readFile(nipplesPath, 'utf8')
+        ]);
+
+        // Combine the contents into a single object
+        const combinedData = {
+            rims: JSON.parse(rimsContents),
+            hubs: JSON.parse(hubsContents),
+            spokes: JSON.parse(spokesContents),
+            nipples: JSON.parse(nipplesContents)
+        };
+        
+        return response.status(200).json(combinedData);
+
     } catch (error) {
-        console.error(error);
+        console.error('Error reading or parsing component files:', error);
         return response.status(500).json({ error: 'Could not load component data.' });
     }
 }
