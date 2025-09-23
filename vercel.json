@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/get-components.js": {
+      "includeFiles": "component-data/**"
+    }
+  }
+}
