@@ -31,7 +31,7 @@
    "ID": null,
    "Title": "Bendix Kickback 2-Speed Rear Hub - Coaster Brake - 10x120 QR",
    "Vendor": "Bendix",
-   "Tags": "12x100, calc:visible, coasterbrake, bendix, component:hub, fronthub, hub_type:j_bend, style:gravelroad",
+   "Tags": "12x100, calc:visible, coasterbrake, bendix, component:hub, rearhub, hub_type:j_bend, style:gravelroad",
    "Variant ID": null,
    "Option1 Name": "Spoke Count",
    "Option1 Value": "36h",
