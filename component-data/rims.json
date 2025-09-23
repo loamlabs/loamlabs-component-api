@@ -1155,11 +1155,11 @@
    "Variant Metafield: custom.weight_g [number_decimal]": 695
  },
  {
-   "ID": null,
+   "ID": 9848996469999,
    "Title": "DT Swiss FR 560 Alloy Rim",
    "Vendor": "DT Swiss",
    "Tags": "aluminumrim, calc:visible, component:rim, dtswiss, frontrim, rearrim, style:mtb",
-   "Variant ID": null,
+   "Variant ID": 51700008904371,
    "Option1 Name": "Size",
    "Option1 Value": "26\"",
    "Option2 Name": "Spoke Count",
@@ -1176,11 +1176,11 @@
    "Variant Metafield: custom.weight_g [number_decimal]": 570
  },
  {
-   "ID": null,
+   "ID": 9848996469999,
    "Title": "DT Swiss FR 560 Alloy Rim",
    "Vendor": "DT Swiss",
    "Tags": "aluminumrim, calc:visible, component:rim, dtswiss, frontrim, rearrim, style:mtb",
-   "Variant ID": null,
+   "Variant ID": 51797698900984,
    "Option1 Name": "Size",
    "Option1 Value": "27.5\"",
    "Option2 Name": "Spoke Count",
@@ -1197,11 +1197,11 @@
    "Variant Metafield: custom.weight_g [number_decimal]": 595
  },
  {
-   "ID": null,
+   "ID": 9848996469999,
    "Title": "DT Swiss FR 560 Alloy Rim",
    "Vendor": "DT Swiss",
    "Tags": "aluminumrim, calc:visible, component:rim, dtswiss, frontrim, rearrim, style:mtb",
-   "Variant ID": null,
+   "Variant ID": 51797698907854,
    "Option1 Name": "Size",
    "Option1 Value": "29\"",
    "Option2 Name": "Spoke Count",
