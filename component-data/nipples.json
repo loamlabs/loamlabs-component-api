@@ -1,1 +1,80 @@
 
+"nipples": [
+ {
+   "ID": 9835724636467,
+   "Title": "Calculator Nipple Reference",
+   "Vendor": "Sapim",
+   "Tags": "calc:visible, component:nipple",
+   "Variant ID": 51915810242867,
+   "Option1 Name": "Type",
+   "Option1 Value": "Slotted Alloy Nipple (12mm)",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": 0,
+   "Variant Metafield: custom.weight_g [number_decimal]": 0.31
+ },
+ {
+   "ID": 9835724636467,
+   "Title": "Calculator Nipple Reference",
+   "Vendor": "Sapim",
+   "Tags": "calc:visible, component:nipple",
+   "Variant ID": 51915810275635,
+   "Option1 Name": "Type",
+   "Option1 Value": "Slotted Brass Nipple (12mm)",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": 0,
+   "Variant Metafield: custom.weight_g [number_decimal]": 0.95
+ },
+ {
+   "ID": 9835724636467,
+   "Title": "Calculator Nipple Reference",
+   "Vendor": "Sapim",
+   "Tags": "calc:visible, component:nipple",
+   "Variant ID": 51915810308403,
+   "Option1 Name": "Type",
+   "Option1 Value": "DT Swiss Squorx Alloy Nipple (15mm)",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": -1,
+   "Variant Metafield: custom.weight_g [number_decimal]": 0.42
+ },
+ {
+   "ID": 9835724636467,
+   "Title": "Calculator Nipple Reference",
+   "Vendor": "Sapim",
+   "Tags": "calc:visible, component:nipple",
+   "Variant ID": 51915810341171,
+   "Option1 Name": "Type",
+   "Option1 Value": "DT Swiss Squorx Brass Nipple (15mm)",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": -1,
+   "Variant Metafield: custom.weight_g [number_decimal]": 1.21
+ },
+ {
+   "ID": 9835724636467,
+   "Title": "Calculator Nipple Reference",
+   "Vendor": "Sapim",
+   "Tags": "calc:visible, component:nipple",
+   "Variant ID": 51915810373939,
+   "Option1 Name": "Type",
+   "Option1 Value": "Sapim Double Square Alloy Nipple (16mm)",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": 0,
+   "Variant Metafield: custom.weight_g [number_decimal]": 0.39
+ },
+ {
+   "ID": 9835724636467,
+   "Title": "Calculator Nipple Reference",
+   "Vendor": "Sapim",
+   "Tags": "calc:visible, component:nipple",
+   "Variant ID": 51915810406707,
+   "Option1 Name": "Type",
+   "Option1 Value": "Sapim Double Square Brass Nipple (16mm)",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": 0,
+   "Variant Metafield: custom.weight_g [number_decimal]": 1.22
+ },
+ {
+   "ID": 9835724636467,
+   "Title": "Calculator Nipple Reference",
+   "Vendor": "Sapim",
+   "Tags": "calc:visible, component:nipple",
+   "Variant ID": 51915818467635,
+   "Option1 Name": "Type",
+   "Option1 Value": "Enter Nipple Weight Manually",
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": 0,
+   "Variant Metafield: custom.weight_g [number_decimal]": null
+ }
+]
