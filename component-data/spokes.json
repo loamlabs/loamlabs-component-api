@@ -1,4 +1,3 @@
-
 [
  {
    "ID": 9737461760307,
@@ -11,7 +10,8 @@
    "Metafield: custom.spoke_cross_section_area_mm2 [number_decimal]": 2.545,
    "Metafield: custom.spoke_model_group [single_line_text_field]": "Sapim Race",
    "Metafield: custom.weight_g [number_decimal]": 5.95,
-   "Metafield: custom.spoke_diameter_spec [single_line_text_field]": "2.0 / 1.8 / 2.0mm"
+   "Metafield: custom.spoke_diameter_spec [single_line_text_field]": "2.0 / 1.8 / 2.0mm",
+   "Metafield: custom.spoke_rounding_rule [single_line_text_field]": "even"
  },
  {
    "ID": 9737470378291,
@@ -21,10 +21,11 @@
    "Variant ID": 51484532539699,
    "Metafield: custom.wheel_spec_model [single_line_text_field]": "Sapim CX-Ray (Aero/Performance)",
    "Metafield: custom.spoke_type [single_line_text_field]": "Steel",
-   "Metafield: custom.spoke_cross_section_area_mm2 [number_decimal]": 1.767,
+   "Metafield: custom.spoke_cross_section_area_mm2 [number_decimal]": 1.76,
    "Metafield: custom.spoke_model_group [single_line_text_field]": "Sapim CX Ray",
    "Metafield: custom.weight_g [number_decimal]": 4.41,
-   "Metafield: custom.spoke_diameter_spec [single_line_text_field]": "2.0 - (2.2 x 0.9mm) - 2.0"
+   "Metafield: custom.spoke_diameter_spec [single_line_text_field]": "2.0 - (2.2 x 0.9mm) - 2.0",
+   "Metafield: custom.spoke_rounding_rule [single_line_text_field]": "even"
  },
  {
    "ID": 9737474801971,
@@ -34,10 +35,11 @@
    "Variant ID": 51484531982643,
    "Metafield: custom.wheel_spec_model [single_line_text_field]": "Sapim Laser (Lightweight/XC)",
    "Metafield: custom.spoke_type [single_line_text_field]": "Steel",
-   "Metafield: custom.spoke_cross_section_area_mm2 [number_decimal]": 1.767,
+   "Metafield: custom.spoke_cross_section_area_mm2 [number_decimal]": 1.77,
    "Metafield: custom.spoke_model_group [single_line_text_field]": "Sapim Laser",
    "Metafield: custom.weight_g [number_decimal]": 4.32,
-   "Metafield: custom.spoke_diameter_spec [single_line_text_field]": "2.0 / 1.5 / 2.0mm"
+   "Metafield: custom.spoke_diameter_spec [single_line_text_field]": "2.0 / 1.5 / 2.0mm",
+   "Metafield: custom.spoke_rounding_rule [single_line_text_field]": "even"
  },
  {
    "ID": 9737487614259,
@@ -50,6 +52,175 @@
    "Metafield: custom.spoke_cross_section_area_mm2 [number_decimal]": null,
    "Metafield: custom.spoke_model_group [single_line_text_field]": "Berd PolyLight Spokes",
    "Metafield: custom.weight_g [number_decimal]": 2.5,
-   "Metafield: custom.spoke_diameter_spec [single_line_text_field]": "1.8mm Braided UHMWPE"
+   "Metafield: custom.spoke_diameter_spec [single_line_text_field]": "1.8mm Braided UHMWPE",
+   "Metafield: custom.spoke_rounding_rule [single_line_text_field]": "nearest"
+ },
+ {
+   "ID": null,
+   "Title": "DT Revolution test",
+   "Vendor": "DT Swiss",
+   "Tags": "calc:visible, component:spoke",
+   "Variant ID": null,
+   "Metafield: custom.wheel_spec_model [single_line_text_field]": "",
+   "Metafield: custom.spoke_type [single_line_text_field]": "Steel",
+   "Metafield: custom.spoke_cross_section_area_mm2 [number_decimal]": 1.77,
+   "Metafield: custom.spoke_model_group [single_line_text_field]": "DT Revolution",
+   "Metafield: custom.weight_g [number_decimal]": 4.47,
+   "Metafield: custom.spoke_diameter_spec [single_line_text_field]": "2.0 / 1.5 / 2.0mm",
+   "Metafield: custom.spoke_rounding_rule [single_line_text_field]": "nearest"
+ },
+ {
+   "ID": null,
+   "Title": "DT Competition Race",
+   "Vendor": "DT Swiss",
+   "Tags": "calc:visible, component:spoke",
+   "Variant ID": null,
+   "Metafield: custom.wheel_spec_model [single_line_text_field]": "",
+   "Metafield: custom.spoke_type [single_line_text_field]": "Steel",
+   "Metafield: custom.spoke_cross_section_area_mm2 [number_decimal]": 2.01,
+   "Metafield: custom.spoke_model_group [single_line_text_field]": "DT Competition Race test",
+   "Metafield: custom.weight_g [number_decimal]": 4.89,
+   "Metafield: custom.spoke_diameter_spec [single_line_text_field]": "2.0 / 1.6 / 2.0 mm",
+   "Metafield: custom.spoke_rounding_rule [single_line_text_field]": "nearest"
+ },
+ {
+   "ID": null,
+   "Title": "DT Competition",
+   "Vendor": "DT Swiss",
+   "Tags": "calc:visible, component:spoke",
+   "Variant ID": null,
+   "Metafield: custom.wheel_spec_model [single_line_text_field]": "",
+   "Metafield: custom.spoke_type [single_line_text_field]": "Steel",
+   "Metafield: custom.spoke_cross_section_area_mm2 [number_decimal]": 2.54,
+   "Metafield: custom.spoke_model_group [single_line_text_field]": "DT Competition",
+   "Metafield: custom.weight_g [number_decimal]": 5.97,
+   "Metafield: custom.spoke_diameter_spec [single_line_text_field]": "2.0 / 1.8 / 2.0mm",
+   "Metafield: custom.spoke_rounding_rule [single_line_text_field]": "nearest"
+ },
+ {
+   "ID": null,
+   "Title": "DT Champion",
+   "Vendor": "DT Swiss",
+   "Tags": "calc:visible, component:spoke",
+   "Variant ID": null,
+   "Metafield: custom.wheel_spec_model [single_line_text_field]": "",
+   "Metafield: custom.spoke_type [single_line_text_field]": "Steel",
+   "Metafield: custom.spoke_cross_section_area_mm2 [number_decimal]": 3.14,
+   "Metafield: custom.spoke_model_group [single_line_text_field]": "DT Champion",
+   "Metafield: custom.weight_g [number_decimal]": 6.94,
+   "Metafield: custom.spoke_diameter_spec [single_line_text_field]": "2.0mm",
+   "Metafield: custom.spoke_rounding_rule [single_line_text_field]": "nearest"
+ },
+ {
+   "ID": null,
+   "Title": "DT Aerolite",
+   "Vendor": "DT Swiss",
+   "Tags": "calc:visible, component:spoke",
+   "Variant ID": null,
+   "Metafield: custom.wheel_spec_model [single_line_text_field]": "",
+   "Metafield: custom.spoke_type [single_line_text_field]": "Steel",
+   "Metafield: custom.spoke_cross_section_area_mm2 [number_decimal]": 2.07,
+   "Metafield: custom.spoke_model_group [single_line_text_field]": "DT Aerolite",
+   "Metafield: custom.weight_g [number_decimal]": 4.34,
+   "Metafield: custom.spoke_diameter_spec [single_line_text_field]": "2.0 - (2.3 x 0.9mm) - 2.0",
+   "Metafield: custom.spoke_rounding_rule [single_line_text_field]": "nearest"
+ },
+ {
+   "ID": null,
+   "Title": "DT Aero Comp",
+   "Vendor": "DT Swiss",
+   "Tags": "calc:visible, component:spoke",
+   "Variant ID": null,
+   "Metafield: custom.wheel_spec_model [single_line_text_field]": "",
+   "Metafield: custom.spoke_type [single_line_text_field]": "Steel",
+   "Metafield: custom.spoke_cross_section_area_mm2 [number_decimal]": 2.76,
+   "Metafield: custom.spoke_model_group [single_line_text_field]": "DT Aero Comp",
+   "Metafield: custom.weight_g [number_decimal]": 5.94,
+   "Metafield: custom.spoke_diameter_spec [single_line_text_field]": "2.0 - (2.3 x 1.2mm) - 2.0",
+   "Metafield: custom.spoke_rounding_rule [single_line_text_field]": "nearest"
+ },
+ {
+   "ID": null,
+   "Title": "Sapim Strong",
+   "Vendor": "Sapim",
+   "Tags": "calc:visible, component:spoke",
+   "Variant ID": null,
+   "Metafield: custom.wheel_spec_model [single_line_text_field]": "",
+   "Metafield: custom.spoke_type [single_line_text_field]": "Steel",
+   "Metafield: custom.spoke_cross_section_area_mm2 [number_decimal]": 3.14,
+   "Metafield: custom.spoke_model_group [single_line_text_field]": "",
+   "Metafield: custom.weight_g [number_decimal]": 6.97,
+   "Metafield: custom.spoke_diameter_spec [single_line_text_field]": "2.3 / 2.0mm",
+   "Metafield: custom.spoke_rounding_rule [single_line_text_field]": "even"
+ },
+ {
+   "ID": null,
+   "Title": "Sapim Force",
+   "Vendor": "Sapim",
+   "Tags": "calc:visible, component:spoke",
+   "Variant ID": null,
+   "Metafield: custom.wheel_spec_model [single_line_text_field]": "",
+   "Metafield: custom.spoke_type [single_line_text_field]": "Steel",
+   "Metafield: custom.spoke_cross_section_area_mm2 [number_decimal]": 2.54,
+   "Metafield: custom.spoke_model_group [single_line_text_field]": "",
+   "Metafield: custom.weight_g [number_decimal]": 5.89,
+   "Metafield: custom.spoke_diameter_spec [single_line_text_field]": "2.2 / 1.8 / 2.0 mm",
+   "Metafield: custom.spoke_rounding_rule [single_line_text_field]": "even"
+ },
+ {
+   "ID": null,
+   "Title": "Sapim Sprint",
+   "Vendor": "Sapim",
+   "Tags": "calc:visible, component:spoke",
+   "Variant ID": null,
+   "Metafield: custom.wheel_spec_model [single_line_text_field]": "",
+   "Metafield: custom.spoke_type [single_line_text_field]": "Steel",
+   "Metafield: custom.spoke_cross_section_area_mm2 [number_decimal]": 1.77,
+   "Metafield: custom.spoke_model_group [single_line_text_field]": "",
+   "Metafield: custom.weight_g [number_decimal]": 5.22,
+   "Metafield: custom.spoke_diameter_spec [single_line_text_field]": "2.0 / 1.7 / 2.0mm",
+   "Metafield: custom.spoke_rounding_rule [single_line_text_field]": "even"
+ },
+ {
+   "ID": null,
+   "Title": "Sapim D-Light",
+   "Vendor": "Sapim",
+   "Tags": "calc:visible, component:spoke",
+   "Variant ID": null,
+   "Metafield: custom.wheel_spec_model [single_line_text_field]": "",
+   "Metafield: custom.spoke_type [single_line_text_field]": "Steel",
+   "Metafield: custom.spoke_cross_section_area_mm2 [number_decimal]": 2.1,
+   "Metafield: custom.spoke_model_group [single_line_text_field]": "",
+   "Metafield: custom.weight_g [number_decimal]": 4.8,
+   "Metafield: custom.spoke_diameter_spec [single_line_text_field]": "2.0 / 1.65 / 2.0mm",
+   "Metafield: custom.spoke_rounding_rule [single_line_text_field]": "even"
+ },
+ {
+   "ID": null,
+   "Title": "Sapim CX-Sprint",
+   "Vendor": "Sapim",
+   "Tags": "calc:visible, component:spoke",
+   "Variant ID": null,
+   "Metafield: custom.wheel_spec_model [single_line_text_field]": "",
+   "Metafield: custom.spoke_type [single_line_text_field]": "Steel",
+   "Metafield: custom.spoke_cross_section_area_mm2 [number_decimal]": 2.81,
+   "Metafield: custom.spoke_model_group [single_line_text_field]": "",
+   "Metafield: custom.weight_g [number_decimal]": 5.22,
+   "Metafield: custom.spoke_diameter_spec [single_line_text_field]": "2.0 - (2.25 x 1.25mm) - 2.0",
+   "Metafield: custom.spoke_rounding_rule [single_line_text_field]": "even"
+ },
+ {
+   "ID": null,
+   "Title": "Sapim Leader",
+   "Vendor": "Sapim",
+   "Tags": "calc:visible, component:spoke",
+   "Variant ID": null,
+   "Metafield: custom.wheel_spec_model [single_line_text_field]": "",
+   "Metafield: custom.spoke_type [single_line_text_field]": "Steel",
+   "Metafield: custom.spoke_cross_section_area_mm2 [number_decimal]": 3.14,
+   "Metafield: custom.spoke_model_group [single_line_text_field]": "",
+   "Metafield: custom.weight_g [number_decimal]": 6.73,
+   "Metafield: custom.spoke_diameter_spec [single_line_text_field]": "2.0mm",
+   "Metafield: custom.spoke_rounding_rule [single_line_text_field]": "even"
  }
 ]
