@@ -21,7 +21,7 @@
    "Option1 Value": "Slotted Brass Nipple (12mm)",
    "Variant Metafield: custom.length_adjust_mm [number_decimal]": 3,
    "Variant Metafield: custom.nipple_head_height_mm [number_decimal]": 2,
-   "Variant Metafield: custom.weight_g [number_decimal]": 0.95
+   "Variant Metafield: custom.weight_g [number_decimal]": 1
  },
  {
    "ID": null,
@@ -33,7 +33,7 @@
    "Option1 Value": "Slotted Alloy Nipple (14mm)",
    "Variant Metafield: custom.length_adjust_mm [number_decimal]": 2,
    "Variant Metafield: custom.nipple_head_height_mm [number_decimal]": 2,
-   "Variant Metafield: custom.weight_g [number_decimal]": null
+   "Variant Metafield: custom.weight_g [number_decimal]": 0.38
  },
  {
    "ID": null,
@@ -45,7 +45,7 @@
    "Option1 Value": "Slotted Brass Nipple (14mm)",
    "Variant Metafield: custom.length_adjust_mm [number_decimal]": 2,
    "Variant Metafield: custom.nipple_head_height_mm [number_decimal]": 2,
-   "Variant Metafield: custom.weight_g [number_decimal]": null
+   "Variant Metafield: custom.weight_g [number_decimal]": 1.07
  },
  {
    "ID": null,
@@ -57,7 +57,7 @@
    "Option1 Value": "Slotted Alloy Nipple (16mm)",
    "Variant Metafield: custom.length_adjust_mm [number_decimal]": 1,
    "Variant Metafield: custom.nipple_head_height_mm [number_decimal]": 2,
-   "Variant Metafield: custom.weight_g [number_decimal]": null
+   "Variant Metafield: custom.weight_g [number_decimal]": 0.44
  },
  {
    "ID": null,
@@ -69,7 +69,7 @@
    "Option1 Value": "Slotted Brass Nipple (16mm)",
    "Variant Metafield: custom.length_adjust_mm [number_decimal]": 1,
    "Variant Metafield: custom.nipple_head_height_mm [number_decimal]": 2,
-   "Variant Metafield: custom.weight_g [number_decimal]": null
+   "Variant Metafield: custom.weight_g [number_decimal]": 1.204
  },
  {
    "ID": 9835724636467,
@@ -129,7 +129,7 @@
    "Option1 Value": "Sapim Double Square Alloy Nipple (18mm)",
    "Variant Metafield: custom.length_adjust_mm [number_decimal]": 2,
    "Variant Metafield: custom.nipple_head_height_mm [number_decimal]": 2,
-   "Variant Metafield: custom.weight_g [number_decimal]": null
+   "Variant Metafield: custom.weight_g [number_decimal]": 0.41
  },
  {
    "ID": null,
@@ -141,7 +141,7 @@
    "Option1 Value": "Sapim Double Square Brass Nipple (18mm)",
    "Variant Metafield: custom.length_adjust_mm [number_decimal]": 2,
    "Variant Metafield: custom.nipple_head_height_mm [number_decimal]": 2,
-   "Variant Metafield: custom.weight_g [number_decimal]": null
+   "Variant Metafield: custom.weight_g [number_decimal]": 1.25
  },
  {
    "ID": 9835724636467,
