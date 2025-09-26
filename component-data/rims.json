@@ -799,7 +799,7 @@
  },
  {
    "ID": 8479663292723,
-   "Title": "DT Swiss EX 471 Alloy Rim ",
+   "Title": "DT Swiss EX 471 Alloy Rim",
    "Vendor": "DT Swiss",
    "Tags": "aluminumrim, calc:visible, component:rim, dtswiss, frontrim, rearrim, style:mtb",
    "Variant ID": 51924234567987,
@@ -820,7 +820,7 @@
  },
  {
    "ID": 8479663292723,
-   "Title": "DT Swiss EX 471 Alloy Rim ",
+   "Title": "DT Swiss EX 471 Alloy Rim",
    "Vendor": "DT Swiss",
    "Tags": "aluminumrim, calc:visible, component:rim, dtswiss, frontrim, rearrim, style:mtb",
    "Variant ID": 51797698543923,
@@ -841,7 +841,7 @@
  },
  {
    "ID": 8479663292723,
-   "Title": "DT Swiss EX 471 Alloy Rim ",
+   "Title": "DT Swiss EX 471 Alloy Rim",
    "Vendor": "DT Swiss",
    "Tags": "aluminumrim, calc:visible, component:rim, dtswiss, frontrim, rearrim, style:mtb",
    "Variant ID": 51797698478387,
@@ -862,7 +862,7 @@
  },
  {
    "ID": 8479662965043,
-   "Title": "DT Swiss EX 511 Alloy Rim ",
+   "Title": "DT Swiss EX 511 Alloy Rim",
    "Vendor": "DT Swiss",
    "Tags": "aluminumrim, calc:visible, component:rim, dtswiss, frontrim, rearrim, style:mtb",
    "Variant ID": 51797698380083,
@@ -883,7 +883,7 @@
  },
  {
    "ID": 8479662965043,
-   "Title": "DT Swiss EX 511 Alloy Rim ",
+   "Title": "DT Swiss EX 511 Alloy Rim",
    "Vendor": "DT Swiss",
    "Tags": "aluminumrim, calc:visible, component:rim, dtswiss, frontrim, rearrim, style:mtb",
    "Variant ID": 51797698412851,
@@ -904,7 +904,7 @@
  },
  {
    "ID": 8479662965043,
-   "Title": "DT Swiss EX 511 Alloy Rim ",
+   "Title": "DT Swiss EX 511 Alloy Rim",
    "Vendor": "DT Swiss",
    "Tags": "aluminumrim, calc:visible, component:rim, dtswiss, frontrim, rearrim, style:mtb",
    "Variant ID": 51797698314547,
@@ -1030,7 +1030,7 @@
  },
  {
    "ID": 8479662702899,
-   "Title": "DT Swiss FR 541 Alloy Rim ",
+   "Title": "DT Swiss FR 541 Alloy Rim",
    "Vendor": "DT Swiss",
    "Tags": "aluminumrim, calc:visible, component:rim, dtswiss, frontrim, rearrim, style:mtb",
    "Variant ID": 51797698249011,
@@ -1051,7 +1051,7 @@
  },
  {
    "ID": 8479662702899,
-   "Title": "DT Swiss FR 541 Alloy Rim ",
+   "Title": "DT Swiss FR 541 Alloy Rim",
    "Vendor": "DT Swiss",
    "Tags": "aluminumrim, calc:visible, component:rim, dtswiss, frontrim, rearrim, style:mtb",
    "Variant ID": 51797698281779,
@@ -1072,7 +1072,7 @@
  },
  {
    "ID": 8479662702899,
-   "Title": "DT Swiss FR 541 Alloy Rim ",
+   "Title": "DT Swiss FR 541 Alloy Rim",
    "Vendor": "DT Swiss",
    "Tags": "aluminumrim, calc:visible, component:rim, dtswiss, frontrim, rearrim, style:mtb",
    "Variant ID": 51797698183475,
@@ -1093,7 +1093,7 @@
  },
  {
    "ID": 8479662702899,
-   "Title": "DT Swiss FR 541 Alloy Rim ",
+   "Title": "DT Swiss FR 541 Alloy Rim",
    "Vendor": "DT Swiss",
    "Tags": "aluminumrim, calc:visible, component:rim, dtswiss, frontrim, rearrim, style:mtb",
    "Variant ID": 51797698216243,
@@ -1114,7 +1114,7 @@
  },
  {
    "ID": 9848996462899,
-   "Title": "DT Swiss FR 571 Alloy Rim ",
+   "Title": "DT Swiss FR 571 Alloy Rim",
    "Vendor": "DT Swiss",
    "Tags": "aluminumrim, calc:visible, component:rim, dtswiss, frontrim, rearrim, style:mtb",
    "Variant ID": 52318442094899,
@@ -1135,7 +1135,7 @@
  },
  {
    "ID": 9848996462899,
-   "Title": "DT Swiss FR 571 Alloy Rim ",
+   "Title": "DT Swiss FR 571 Alloy Rim",
    "Vendor": "DT Swiss",
    "Tags": "aluminumrim, calc:visible, component:rim, dtswiss, frontrim, rearrim, style:mtb",
    "Variant ID": 52318441996595,
@@ -1165,7 +1165,7 @@
    "Option2 Name": "Spoke Count",
    "Option2 Value": "32h",
    "Metafield: custom.nipple_washer_thickness [number_decimal]": 0,
-   "Metafield: custom.rim_spoke_hole_offset [number_decimal]": 0,
+   "Metafield: custom.rim_spoke_hole_offset [number_decimal]": null,
    "Metafield: custom.rim_washer_policy [single_line_text_field]": "Not Compatible",
    "Metafield: custom.rim_target_tension_kgf [number_integer]": 120,
    "Metafield: custom.rim_compatible_nipple_types [list.single_line_text_field]": "",
@@ -1186,7 +1186,7 @@
    "Option2 Name": "Spoke Count",
    "Option2 Value": "32h",
    "Metafield: custom.nipple_washer_thickness [number_decimal]": 0,
-   "Metafield: custom.rim_spoke_hole_offset [number_decimal]": 0,
+   "Metafield: custom.rim_spoke_hole_offset [number_decimal]": null,
    "Metafield: custom.rim_washer_policy [single_line_text_field]": "Not Compatible",
    "Metafield: custom.rim_target_tension_kgf [number_integer]": 120,
    "Metafield: custom.rim_compatible_nipple_types [list.single_line_text_field]": "",
@@ -1207,7 +1207,7 @@
    "Option2 Name": "Spoke Count",
    "Option2 Value": "32h",
    "Metafield: custom.nipple_washer_thickness [number_decimal]": 0,
-   "Metafield: custom.rim_spoke_hole_offset [number_decimal]": 0,
+   "Metafield: custom.rim_spoke_hole_offset [number_decimal]": null,
    "Metafield: custom.rim_washer_policy [single_line_text_field]": "Not Compatible",
    "Metafield: custom.rim_target_tension_kgf [number_integer]": 120,
    "Metafield: custom.rim_compatible_nipple_types [list.single_line_text_field]": "",
@@ -1324,7 +1324,7 @@
  },
  {
    "ID": 8479667585331,
-   "Title": "DT Swiss RR 481 Alloy Rim ",
+   "Title": "DT Swiss RR 481 Alloy Rim",
    "Vendor": "DT Swiss",
    "Tags": "aluminumrim, calc:visible, component:rim, dtswiss, frontrim, rearrim, style:gravelroad",
    "Variant ID": 51797698707763,
@@ -1345,7 +1345,7 @@
  },
  {
    "ID": 8479667585331,
-   "Title": "DT Swiss RR 481 Alloy Rim ",
+   "Title": "DT Swiss RR 481 Alloy Rim",
    "Vendor": "DT Swiss",
    "Tags": "aluminumrim, calc:visible, component:rim, dtswiss, frontrim, rearrim, style:gravelroad",
    "Variant ID": 51797698740531,
@@ -4999,7 +4999,7 @@
  },
  {
    "ID": 9832892727603,
-   "Title": "We Are One DEAL Carbon Rim ",
+   "Title": "We Are One DEAL Carbon Rim",
    "Vendor": "We Are One",
    "Tags": "calc:visible, carbonrim, component:rim, frontrim, rearrim, style:mtb, weareone",
    "Variant ID": 51901428859187,
@@ -5020,7 +5020,7 @@
  },
  {
    "ID": 9832892727603,
-   "Title": "We Are One DEAL Carbon Rim ",
+   "Title": "We Are One DEAL Carbon Rim",
    "Vendor": "We Are One",
    "Tags": "calc:visible, carbonrim, component:rim, frontrim, rearrim, style:mtb, weareone",
    "Variant ID": 51901428793651,
@@ -5104,7 +5104,7 @@
  },
  {
    "ID": 8764682830131,
-   "Title": "We Are One FUSE Carbon Rim ",
+   "Title": "We Are One FUSE Carbon Rim",
    "Vendor": "We Are One",
    "Tags": "calc:visible, carbonrim, component:rim, frontrim, rearrim, style:mtb, weareone",
    "Variant ID": 51901412114739,
@@ -5125,7 +5125,7 @@
  },
  {
    "ID": 8764682830131,
-   "Title": "We Are One FUSE Carbon Rim ",
+   "Title": "We Are One FUSE Carbon Rim",
    "Vendor": "We Are One",
    "Tags": "calc:visible, carbonrim, component:rim, frontrim, rearrim, style:mtb, weareone",
    "Variant ID": 51797702934835,
@@ -5146,7 +5146,7 @@
  },
  {
    "ID": 8764682830131,
-   "Title": "We Are One FUSE Carbon Rim ",
+   "Title": "We Are One FUSE Carbon Rim",
    "Vendor": "We Are One",
    "Tags": "calc:visible, carbonrim, component:rim, frontrim, rearrim, style:mtb, weareone",
    "Variant ID": 51797702967603,
@@ -5293,7 +5293,7 @@
  },
  {
    "ID": 8764670214451,
-   "Title": "We Are One STRIFE Carbon Rim ",
+   "Title": "We Are One STRIFE Carbon Rim",
    "Vendor": "We Are One",
    "Tags": "calc:visible, carbonrim, component:rim, frontrim, rearrim, style:mtb, weareone",
    "Variant ID": 51797702639923,
@@ -5314,7 +5314,7 @@
  },
  {
    "ID": 8764670214451,
-   "Title": "We Are One STRIFE Carbon Rim ",
+   "Title": "We Are One STRIFE Carbon Rim",
    "Vendor": "We Are One",
    "Tags": "calc:visible, carbonrim, component:rim, frontrim, rearrim, style:mtb, weareone",
    "Variant ID": 51797702672691,
@@ -5335,7 +5335,7 @@
  },
  {
    "ID": 8764670214451,
-   "Title": "We Are One STRIFE Carbon Rim ",
+   "Title": "We Are One STRIFE Carbon Rim",
    "Vendor": "We Are One",
    "Tags": "calc:visible, carbonrim, component:rim, frontrim, rearrim, style:mtb, weareone",
    "Variant ID": 51797702574387,
@@ -5356,7 +5356,7 @@
  },
  {
    "ID": 8764670214451,
-   "Title": "We Are One STRIFE Carbon Rim ",
+   "Title": "We Are One STRIFE Carbon Rim",
    "Vendor": "We Are One",
    "Tags": "calc:visible, carbonrim, component:rim, frontrim, rearrim, style:mtb, weareone",
    "Variant ID": 51797702607155,
@@ -5377,7 +5377,7 @@
  },
  {
    "ID": 8764684206387,
-   "Title": "We Are One TRIAD Carbon Rim ",
+   "Title": "We Are One TRIAD Carbon Rim",
    "Vendor": "We Are One",
    "Tags": "calc:visible, carbonrim, component:rim, frontrim, rearrim, style:mtb, weareone",
    "Variant ID": 51797703164211,
@@ -5398,7 +5398,7 @@
  },
  {
    "ID": 8764684206387,
-   "Title": "We Are One TRIAD Carbon Rim ",
+   "Title": "We Are One TRIAD Carbon Rim",
    "Vendor": "We Are One",
    "Tags": "calc:visible, carbonrim, component:rim, frontrim, rearrim, style:mtb, weareone",
    "Variant ID": 51797703098675,
@@ -5419,7 +5419,7 @@
  },
  {
    "ID": 8764684206387,
-   "Title": "We Are One TRIAD Carbon Rim ",
+   "Title": "We Are One TRIAD Carbon Rim",
    "Vendor": "We Are One",
    "Tags": "calc:visible, carbonrim, component:rim, frontrim, rearrim, style:mtb, weareone",
    "Variant ID": 51797703131443,
