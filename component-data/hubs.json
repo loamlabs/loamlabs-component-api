@@ -1,35 +1,3 @@
-ConvertCSV
-From CSV/Excel
-To CSV/Excel
-Data Tools
-Convert CSV to JSON Buy Me a Coffee at ko-fi.com
-
-Ezoic
-
-This conversion is now available as an API at ConvertCsv.io
-ConvertCSV products
-What can this tool do? 
-
-What are my options? 
-What else? 
-
-Step 1: Select your input
-Enter Data
-Choose File
-Enter URL
-
-Choose FileLoamLabs Spoke Calculator Components - Hubs.csv Encoding 
--Default-
-      
-Input Records- Header: true   Header Fields: 28
-Data: Separator: ,     Fields: 28     Records: 1143
- Step 2: Choose input options (optional) 
-Step 3: Choose output options (optional) 
-Step 4: Create Custom Output via Template (optional) 
-Step 5: Generate output
-Choose Conversion Type:
-   
-Result Data: 
 [
  {
    "ID": null,
@@ -34322,43 +34290,3 @@ Result Data:
    "Variant Metafield: custom.hub_paired_angle [number_integer]": ""
  }
 ]
-
-Save your result: 
-LoamLabs Spoke Calculator Components - Hubs
-.json  EOL: 
-CRLF
-
-
-You can Save the complete data and settings, and then later Load them from your saved file.
-  Load Saved Form No file chosen
-  Save Form (data and settings) 
-
-x
-
-Pause
-
-Unmute
-
-Fullscreen
-Now Playing
-
-
-
-
-
-
-
-
-
-x
-video of: How to Convert CSV to JSON in 5 SecondsPlay Video
-How to Convert CSV to JSON in 5 Seconds
-
-Watch on
-Video channel logo
-How to Convert CSV to JSON in 5 Seconds
-Ezoic
-Copyright © 2013-2025 Data Design Group, Inc. All Rights Reserved  Facebook   Twitter   Privacy Policy   Contact Us   Change Log   Terms of Use   Home
-X
-
-Advertisement: 0:29
