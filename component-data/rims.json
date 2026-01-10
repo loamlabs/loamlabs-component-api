@@ -1701,6 +1701,48 @@
    "Variant Metafield: custom.weight_g [number_decimal]": 550
  },
  {
+   "ID": 9783043785011,
+   "ProductURL": "https://loamlabsusa.com/products/e-thirteen-grappler-flux-en-carbon-rim",
+   "Title": "e*thirteen Grappler Flux EN Carbon Rim",
+   "Vendor": "e*thirteen",
+   "Tags": "calc:visible, carbonrim, component:rim, e*thirteen, frontrim, rearrim, style:mtb",
+   "Option1 Name": "Size",
+   "Option1 Value": "27.5\"",
+   "Option2 Name": "Spoke Count",
+   "Option2 Value": "28h",
+   "Metafield: custom.nipple_washer_thickness [number_decimal]": 0.6,
+   "Metafield: custom.rim_spoke_hole_offset [number_decimal]": 0,
+   "Metafield: custom.rim_washer_policy [single_line_text_field]": "Mandatory",
+   "Metafield: custom.rim_target_tension_kgf [number_integer]": 120,
+   "Metafield: custom.rim_compatible_nipple_types [list.single_line_text_field]": "",
+   "Metafield: custom.weight_g [number_decimal]": null,
+   "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
+   "Variant Metafield: custom.rim_erd [number_decimal]": 565,
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
+   "Variant Metafield: custom.weight_g [number_decimal]": 564
+ },
+ {
+   "ID": 9783043785011,
+   "ProductURL": "https://loamlabsusa.com/products/e-thirteen-grappler-flux-en-carbon-rim",
+   "Title": "e*thirteen Grappler Flux EN Carbon Rim",
+   "Vendor": "e*thirteen",
+   "Tags": "calc:visible, carbonrim, component:rim, e*thirteen, frontrim, rearrim, style:mtb",
+   "Option1 Name": "Size",
+   "Option1 Value": "27.5\"",
+   "Option2 Name": "Spoke Count",
+   "Option2 Value": "32h",
+   "Metafield: custom.nipple_washer_thickness [number_decimal]": 0.6,
+   "Metafield: custom.rim_spoke_hole_offset [number_decimal]": 0,
+   "Metafield: custom.rim_washer_policy [single_line_text_field]": "Mandatory",
+   "Metafield: custom.rim_target_tension_kgf [number_integer]": 120,
+   "Metafield: custom.rim_compatible_nipple_types [list.single_line_text_field]": "",
+   "Metafield: custom.weight_g [number_decimal]": null,
+   "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
+   "Variant Metafield: custom.rim_erd [number_decimal]": 565,
+   "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
+   "Variant Metafield: custom.weight_g [number_decimal]": 568
+ },
+ {
    "ID": 9783049748787,
    "ProductURL": "https://loamlabsusa.com/products/e-thirteen-grappler-flux-gr-alloy-rim",
    "Title": "e*thirteen Grappler Flux GR Alloy Rim",
@@ -1719,7 +1761,7 @@
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 563,
    "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
-   "Variant Metafield: custom.weight_g [number_decimal]": 605
+   "Variant Metafield: custom.weight_g [number_decimal]": 550
  },
  {
    "ID": 9783049748787,
@@ -1740,7 +1782,7 @@
    "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 563,
    "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
-   "Variant Metafield: custom.weight_g [number_decimal]": 605
+   "Variant Metafield: custom.weight_g [number_decimal]": 550
  },
  {
    "ID": 9783065575731,
@@ -4740,7 +4782,7 @@
    "Metafield: custom.rim_target_tension_kgf [number_integer]": 120,
    "Metafield: custom.rim_compatible_nipple_types [list.single_line_text_field]": "",
    "Metafield: custom.weight_g [number_decimal]": null,
-   "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front",
+   "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 571,
    "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 335
@@ -4761,7 +4803,7 @@
    "Metafield: custom.rim_target_tension_kgf [number_integer]": 120,
    "Metafield: custom.rim_compatible_nipple_types [list.single_line_text_field]": "",
    "Metafield: custom.weight_g [number_decimal]": null,
-   "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Rear",
+   "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 565,
    "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 355
@@ -4782,7 +4824,7 @@
    "Metafield: custom.rim_target_tension_kgf [number_integer]": 115,
    "Metafield: custom.rim_compatible_nipple_types [list.single_line_text_field]": "",
    "Metafield: custom.weight_g [number_decimal]": null,
-   "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front",
+   "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 560,
    "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 400
@@ -4803,7 +4845,7 @@
    "Metafield: custom.rim_target_tension_kgf [number_integer]": 115,
    "Metafield: custom.rim_compatible_nipple_types [list.single_line_text_field]": "",
    "Metafield: custom.weight_g [number_decimal]": null,
-   "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front",
+   "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 556,
    "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 375
@@ -4824,7 +4866,7 @@
    "Metafield: custom.rim_target_tension_kgf [number_integer]": 115,
    "Metafield: custom.rim_compatible_nipple_types [list.single_line_text_field]": "",
    "Metafield: custom.weight_g [number_decimal]": null,
-   "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Rear",
+   "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 552,
    "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 425
@@ -4845,7 +4887,7 @@
    "Metafield: custom.rim_target_tension_kgf [number_integer]": 115,
    "Metafield: custom.rim_compatible_nipple_types [list.single_line_text_field]": "",
    "Metafield: custom.weight_g [number_decimal]": null,
-   "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Rear",
+   "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 542,
    "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 415
@@ -4866,7 +4908,7 @@
    "Metafield: custom.rim_target_tension_kgf [number_integer]": 115,
    "Metafield: custom.rim_compatible_nipple_types [list.single_line_text_field]": "",
    "Metafield: custom.weight_g [number_decimal]": null,
-   "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front",
+   "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 537,
    "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 465
@@ -4887,7 +4929,7 @@
    "Metafield: custom.rim_target_tension_kgf [number_integer]": 115,
    "Metafield: custom.rim_compatible_nipple_types [list.single_line_text_field]": "",
    "Metafield: custom.weight_g [number_decimal]": null,
-   "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front",
+   "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 527,
    "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 465
@@ -4908,7 +4950,7 @@
    "Metafield: custom.rim_target_tension_kgf [number_integer]": 115,
    "Metafield: custom.rim_compatible_nipple_types [list.single_line_text_field]": "",
    "Metafield: custom.weight_g [number_decimal]": null,
-   "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Rear",
+   "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 515,
    "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 520
@@ -4929,7 +4971,7 @@
    "Metafield: custom.rim_target_tension_kgf [number_integer]": 115,
    "Metafield: custom.rim_compatible_nipple_types [list.single_line_text_field]": "",
    "Metafield: custom.weight_g [number_decimal]": null,
-   "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Rear",
+   "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 515,
    "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 525
@@ -4950,7 +4992,7 @@
    "Metafield: custom.rim_target_tension_kgf [number_integer]": 115,
    "Metafield: custom.rim_compatible_nipple_types [list.single_line_text_field]": "",
    "Metafield: custom.weight_g [number_decimal]": null,
-   "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front",
+   "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 487,
    "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 590
@@ -4971,7 +5013,7 @@
    "Metafield: custom.rim_target_tension_kgf [number_integer]": 110,
    "Metafield: custom.rim_compatible_nipple_types [list.single_line_text_field]": "",
    "Metafield: custom.weight_g [number_decimal]": null,
-   "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Rear",
+   "Variant Metafield: custom.wheel_spec_position [single_line_text_field]": "Front/Rear",
    "Variant Metafield: custom.rim_erd [number_decimal]": 466,
    "Variant Metafield: custom.length_adjust_mm [number_decimal]": "",
    "Variant Metafield: custom.weight_g [number_decimal]": 600
